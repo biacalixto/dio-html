@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio HTML</title>
+</head>
+<body>
+    <h1 id="inicio">HTML</h1>
+    <hr>
+
+
+    <h2>Índice</h2>
+    <ul>
+        <li><a href="#o-que-e">O que é HTML?</a></li>
+        <li><a href="#quando-surgiu">Quando surgiu o HTML?</a></li>
+        <li><a href="#tags">O que são TAGS?</a></li>
+        <li><a href="#referencias">Referências</a></li>
+    </ul>
+
+    <h2 id="o-que-e">O que é HTML?</h2>
+    <sup>(<a href="#inicio"><strong>Voltar</strong></a>)</sup>
+    <p>HTML (Hypertext Markup Language) é uma linguagem de marcação utilizada para criar e exibir conteúdo na web. </p>
+    <h2 id="quando-surgiu">Quando surgiu?</h2>
+    <sup>(<a href="#inicio"><strong>Voltar</strong></a>)</sup>
+    <p>A sua evolução começou em 1989, quando <strong>Tim Berners-Lee</strong>, um cientista da computação britânico que trabalhava no CERN (<i>Organização Europeia para a Pesquisa Nuclear</i>), desenvolveu a ideia da <i>World Wide Web</i>.
+        <p>A primeira versão do HTML, conhecida como HTML 1.0, foi lançada em 1991. Essa versão incluía tags básicas para formatar o texto, como < h1 > para títulos, < p > para parágrafos e < a > para links. Também incluía imagens, embora apenas em preto e branco.</p>
+        <p>Em 1995, a especificação do HTML foi atualizada para o HTML 2.0, que incluía suporte a tabelas, formulários e framesets (permitindo que diferentes páginas da web fossem exibidas dentro de uma única janela). Nesse mesmo ano, foi lançado o navegador Mosaic, que se tornou popular entre os usuários da web.</p>
+        <p>Em 1997, o HTML 3.0 foi lançado, trazendo suporte para folhas de estilo (CSS) e elementos multimídia, como vídeo e som. No mesmo ano, a Netscape lançou o navegador Netscape Navigator, que se tornou o navegador mais popular da época.</p>
+        <p>Em 1999, foi lançado o HTML 4.0, que incluía novos recursos como tabelas avançadas, frames e suporte para scripts do lado do cliente (JavaScript). O HTML 4.0 também incluía a especificação de documentos XHTML (<i>Extensible Hypertext Markup Language</i>), que combinava o HTML com o XML.</p>
+        <p>Em 2000, o W3C (<i>World Wide Web Consortium</i>) lançou o HTML 4.01, que era uma atualização menor do HTML 4.0, corrigindo alguns erros e inconsistências.</p>
+        <p>Em 2004, o desenvolvimento do HTML foi retomado com a criação do grupo de trabalho HTML da W3C. Esse grupo de trabalho trabalhou no desenvolvimento do HTML5, que foi lançado em 2014. O HTML5 incluiu muitos novos recursos, como elementos semânticos (como < article > e < section >), suporte para vídeo e áudio, geolocalização e capacidade de armazenamento local.</p>
+            <p>Desde então, o HTML5 se tornou a versão mais utilizada do HTML e é suportado por todos os principais navegadores da web. Além disso, o HTML5 continua a ser atualizado com novos recursos e funcionalidades para acompanhar as demandas em constante evolução da web.</p>
+    <h2 id="tags">O que são TAGS?</h2>
+    <sup>(<a href="#inicio"><strong>Voltar</strong></a>)</sup>
+    <p>As tags HTML são elementos usados para marcar e formatar os conteúdos: textual ou visual em documentos HTML. Cada tag HTML tem um nome e uma sintaxe que determina como ela deve ser aberta e fechada.</p>
+    <h2 id="referencias"><mark>Referências</mark></h2>
+    <sup>(<a href="#inicio"><strong>Voltar</strong></a>)</sup>
+    <ol>
+        <li><a href= "https://www.hostgator.com.br/blog/conheca-o-html/"><small>Hostgator - Conheça o HTML, uma das linguagens mais usadas na web</small></a></li>
+        <li><a href="https://blog.xpeducacao.com.br/tags-html/"><small>Xpeducação - O que são Tags HTML e como elas funcionam na prática?</small></a></li>
+    </ol>
+</body>
+</html>
